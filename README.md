@@ -1,9 +1,3 @@
-# Java-Projects
-Multiple Advanced Java Projects
-I made this code using the Visual Studio Code compiler 
-(which doesn't require package specification, unlike Intelli and Eclipse). 
-The code is fully functional!
-
 # Java Projects Collection
 
 ## Overview
@@ -29,3 +23,9 @@ All projects are written in standard Java and are compatible with JDK 8 and high
 
 - Java Development Kit (JDK) version 8 or higher
 - A Java-compatible IDE (such as IntelliJ IDEA, Eclipse, or Visual Studio Code)
+- I made this code using the Visual Studio Code compiler (which doesn't require package specification, unlike Intelli and Eclipse). The code is fully functional!
+
+
+## License
+
+This project is provided for academic and educational purposes. Distribution and reuse allowed with proper attribution.

@@ -1,0 +1,6 @@
+[10:15:06.906] Producer-1: Hello from Writer 1
+[10:15:06.906] Producer-2: Hello from Writer 2
+[10:15:07.309] Producer-2: Next message from Writer 2
+[10:15:07.309] Producer-1: Next message from Writer 1
+[10:15:07.711] Producer-1: Writer 1 done
+[10:15:07.711] Producer-2: Writer 2 done

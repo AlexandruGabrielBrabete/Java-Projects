@@ -24,8 +24,7 @@ All projects are written in standard Java and are compatible with JDK 8 and high
 | **Bouncing Circle App**        | Animated panel with a circle bouncing off edges; Start/Stop control button.                      |     
 | **GCD Multi-Thread App**       | Console app spawning threads to compute GCD of large integers, reporting performance stats.      |      
 | **Shared File Read/Write App** | Two writer threads append timestamped messages; a reader thread tails the file in real time.     |   
-| **Urn Simulation App**         | Graphical ticket‐drawing simulation with multiple players, sequential or with‐replacement modes. |      
-| **Resizable Circle App**       | Resizable canvas drawing a red circle tangent to the panel’s smaller dimension.                  |    
+| **Urn Simulation App**         | Graphical ticket‐drawing simulation with multiple players, sequential or with‐replacement modes. |          
 | **Image Viewer App**           | Loads and scales images to fit; choose caption font and text color.                              |        
 | **TV Test Pattern App**        | Renders a TV test pattern: 10 grayscale bands followed by 6 color bands filling the panel.       |        
 | **Vehicle Animation App**      | Customizable vehicle animation with environment, weather toggles, and selectable color.          |      
@@ -39,6 +38,12 @@ All projects are written in standard Java and are compatible with JDK 8 and high
 - A Java-compatible IDE (such as IntelliJ IDEA, Eclipse, or Visual Studio Code)
 - I made this code using the Visual Studio Code compiler (which doesn't require package specification, unlike Intelli and Eclipse). The code is fully functional!
 
+## Author
+
+**Name:** Alexandru-Gabriel Brabete  
+**University:** Technical University of Cluj-Napoca  
+**Field:** Electronics, Telecommunications and Information Technology  
+**Year:** 2nd year.
 
 ## License
 
